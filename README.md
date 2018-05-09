@@ -21,5 +21,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * The VimL Primer - Edit Like a Pro with Vim Plugins and Scripts [[Download]](/book/The%20VimL%20Primer%20-%20Edit%20Like%20a%20Pro%20with%20Vim%20Plugins%20and%20Scripts.pdf)
 * vi and Vim Editors Pocket Reference [[Download]](/book/vi%20and%20Vim%20Editors%20Pocket%20Reference.pdf)
 * Vi IMproved, Vim [[Download]](/book/Vi%20IMproved%2C%20Vim.pdf)
+* Vim for Humans [[Download]](/book/Vim%20for%20Humans.pdf)
 * Visual Studio Code Succinctly [[Download]](/book/Visual%20Studio%20Code%20Succinctly.pdf)
 
